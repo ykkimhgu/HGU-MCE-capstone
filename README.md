@@ -70,7 +70,7 @@ This tutorial will be uploaded on Github with source codes. Create **Tutorial** 
 
 ## Video Clip
 
-Submit Video clip file.  This will be uploaded in  SmartSensorSystem Lab's youtube. It should contain
+Submit Video clip file (less than 1 min).  This will be uploaded in  SmartSensorSystem Lab's youtube. It should contain
 
 * Title page:  
   * Course name, date, Research title, your name, advisor's name
