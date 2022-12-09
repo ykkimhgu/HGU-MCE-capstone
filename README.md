@@ -75,7 +75,7 @@ Submit Video clip file.  This will be uploaded in  SmartSensorSystem Lab's youtu
 * Title page:  
   * Course name, date, Research title, your name, advisor's name
   * Institute ( School of Mechanical and Control Engineering)
-* Summary of research:
+* Overview of research:
   * You can use PPT or Poster to explain overview of research
-* Demo
-  * Try to create demo video at least 1 min
+* Result Video
+  * image, video that demonstrate results
