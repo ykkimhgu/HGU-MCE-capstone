@@ -1,9 +1,9 @@
 # HGU-MCE Post-Capstone, MIP 
 What you need to submit
 
-1. **Research folder** : final version of software, thesis paper, presentation etc. 
+1. **Research folders** : final version of software, thesis paper, presentation etc. 
 2. **Tutorial**:  Github repository
-3. **Video Clip:**  Short summary & demo
+3. **Video Clip:**  
 
 
 ---
@@ -11,66 +11,96 @@ What you need to submit
 
 ## Research Folder
 
-1. Download all the folders from the github repository in your local drive
+1. Create the Research folders and Subfolders as this github repository 
 
-2. Change the name of the main folder to " YEAR_SHORT-TITLE_YOURNAME"
+   
 
-   > e.g.    2021_PeopleCounting_김한동
+2. Change the name of the main folder to " MIP_YEAR_SHORT-TITLE_YOURNAME"
 
-3. Read instructions carefully and copy necessary  files in each sub-folders
+   > e.g.    MIP_2021_PeopleCounting_김한동
 
-   >  Copy only the necessary and final versions of materials/source codes 
+   
 
-4. Submit the folders
+3. Read the instructions carefully in each subfolder
+
+   
+
+4. Include necessary  files in each subfolder
+
+   >  only the necessary and final versions of materials/source codes 
+
+5. Submit the folders in USB
 
    
 ### Thesis Paper
 
-You have 2 options
+You may use the thesis template  or other template instructed in MCE class. 
 
-1. Use the thesis template. 
+* Report (*.dox) / PDF
 
-   * You may write in Korean, if you want.
 
-2. Replace Thesis paper with *submitted*  KCI Journal manuscript
 
-  
+
 ### Software
 
-Submit Only final versions of softwares
+Submit only final versions of softwares
 
 
-### Others
 
+
+### Presentation and Video 
+
+* Proposal PPT/PDF
+
+* Final Presentation PPT/PDF
+
+* Poster PDF/PDF
+
+  
+
+
+
+### Weekly Meeting 
+
+* Progress presentation/materials 
 * Biweekly
 
-* Presentation, Poster
-
-* References
 
 
 
 
+---
 
-## Tutorial (Software-based Topics) 
+## Tutorial (For Software-based Topics) 
 
-This tutorial will be uploaded on Github with source codes. Create **Tutorial**  in your github repository. Submit the repository address.
+This tutorial will be uploaded to GitHub with the source code. 
 
-1. Write a tutorial with full explanations how to setup, install and run the program
 
-2. Save the tutorial file  as  Tutorial.md or Readme.md
 
-3. Upload  on GITHUB  (1) tutorial instruction (2) all the source files
+Create a github repository. Submit the repository address.
+
+
+
+Repository must include
+
+* Readme:  A tutorial with full explanations for installation and running the program
+* Source code:  Upload  on necessary source files in each appropriate folders
+* Thesis Paper
+* Dataset
 
 > For a large sized dataset, do NOT upload to github,  Just give the link where to download it.
 
-4. Submit Github repository 
+
 
 
 
 ## Video Clip
 
-Submit Video clip file (less than 1 min).  This will be uploaded in  SmartSensorSystem Lab's youtube. It should contain
+Submit Video clip file (~30sec).  This will be uploaded in my Lab's youtube. 
+
+
+
+It should contain
 
 * Title page:  
   * Course name, date, Research title, your name, advisor's name
